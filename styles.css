@@ -1,2 +1,34 @@
 
 /* Your CSS Code here. */
+.holder {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.item {
+	font-size: 34px;
+	width: 100px;
+	height: 100px;
+    box-sizing: border-box;
+}
+.item1 {
+	background-color: green;
+}
+.item2 {
+	background-color: green;
+}
+.item3 {
+	background-color: green;
+}
+.item4 {
+	background-color: green;
+}
+.item5 {
+	background-color: green;
+}
+.item6 {
+	background-color: red;
+}
+.item7 {
+	background-color: blue;
